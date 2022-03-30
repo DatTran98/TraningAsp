@@ -1,0 +1,117 @@
+C:\prj_dev5_traning_grandit\70_member\DatTB\Webform - ASP.NET\Web Server Controls\Bài Tập\BidAndBuy\BidAndBuy\bin\BidAndBuy.dll.config
+C:\prj_dev5_traning_grandit\70_member\DatTB\Webform - ASP.NET\Web Server Controls\Bài Tập\BidAndBuy\BidAndBuy\bin\BidAndBuy.dll
+C:\prj_dev5_traning_grandit\70_member\DatTB\Webform - ASP.NET\Web Server Controls\Bài Tập\BidAndBuy\BidAndBuy\bin\BidAndBuy.pdb
+C:\prj_dev5_traning_grandit\70_member\DatTB\Webform - ASP.NET\Web Server Controls\Bài Tập\BidAndBuy\BidAndBuy\bin\roslyn\csc.exe
+C:\prj_dev5_traning_grandit\70_member\DatTB\Webform - ASP.NET\Web Server Controls\Bài Tập\BidAndBuy\BidAndBuy\bin\roslyn\csc.exe.config
+C:\prj_dev5_traning_grandit\70_member\DatTB\Webform - ASP.NET\Web Server Controls\Bài Tập\BidAndBuy\BidAndBuy\bin\roslyn\csc.rsp
+C:\prj_dev5_traning_grandit\70_member\DatTB\Webform - ASP.NET\Web Server Controls\Bài Tập\BidAndBuy\BidAndBuy\bin\roslyn\csi.exe
+C:\prj_dev5_traning_grandit\70_member\DatTB\Webform - ASP.NET\Web Server Controls\Bài Tập\BidAndBuy\BidAndBuy\bin\roslyn\csi.exe.config
+C:\prj_dev5_traning_grandit\70_member\DatTB\Webform - ASP.NET\Web Server Controls\Bài Tập\BidAndBuy\BidAndBuy\bin\roslyn\csi.rsp
+C:\prj_dev5_traning_grandit\70_member\DatTB\Webform - ASP.NET\Web Server Controls\Bài Tập\BidAndBuy\BidAndBuy\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\prj_dev5_traning_grandit\70_member\DatTB\Webform - ASP.NET\Web Server Controls\Bài Tập\BidAndBuy\BidAndBuy\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\prj_dev5_traning_grandit\70_member\DatTB\Webform - ASP.NET\Web Server Controls\Bài Tập\BidAndBuy\BidAndBuy\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\prj_dev5_traning_grandit\70_member\DatTB\Webform - ASP.NET\Web Server Controls\Bài Tập\BidAndBuy\BidAndBuy\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\prj_dev5_traning_grandit\70_member\DatTB\Webform - ASP.NET\Web Server Controls\Bài Tập\BidAndBuy\BidAndBuy\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\prj_dev5_traning_grandit\70_member\DatTB\Webform - ASP.NET\Web Server Controls\Bài Tập\BidAndBuy\BidAndBuy\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\prj_dev5_traning_grandit\70_member\DatTB\Webform - ASP.NET\Web Server Controls\Bài Tập\BidAndBuy\BidAndBuy\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\prj_dev5_traning_grandit\70_member\DatTB\Webform - ASP.NET\Web Server Controls\Bài Tập\BidAndBuy\BidAndBuy\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\prj_dev5_traning_grandit\70_member\DatTB\Webform - ASP.NET\Web Server Controls\Bài Tập\BidAndBuy\BidAndBuy\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\prj_dev5_traning_grandit\70_member\DatTB\Webform - ASP.NET\Web Server Controls\Bài Tập\BidAndBuy\BidAndBuy\bin\roslyn\Microsoft.Managed.Core.targets
+C:\prj_dev5_traning_grandit\70_member\DatTB\Webform - ASP.NET\Web Server Controls\Bài Tập\BidAndBuy\BidAndBuy\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\prj_dev5_traning_grandit\70_member\DatTB\Webform - ASP.NET\Web Server Controls\Bài Tập\BidAndBuy\BidAndBuy\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\prj_dev5_traning_grandit\70_member\DatTB\Webform - ASP.NET\Web Server Controls\Bài Tập\BidAndBuy\BidAndBuy\bin\roslyn\System.AppContext.dll
+C:\prj_dev5_traning_grandit\70_member\DatTB\Webform - ASP.NET\Web Server Controls\Bài Tập\BidAndBuy\BidAndBuy\bin\roslyn\System.Collections.Immutable.dll
+C:\prj_dev5_traning_grandit\70_member\DatTB\Webform - ASP.NET\Web Server Controls\Bài Tập\BidAndBuy\BidAndBuy\bin\roslyn\System.Console.dll
+C:\prj_dev5_traning_grandit\70_member\DatTB\Webform - ASP.NET\Web Server Controls\Bài Tập\BidAndBuy\BidAndBuy\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\prj_dev5_traning_grandit\70_member\DatTB\Webform - ASP.NET\Web Server Controls\Bài Tập\BidAndBuy\BidAndBuy\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\prj_dev5_traning_grandit\70_member\DatTB\Webform - ASP.NET\Web Server Controls\Bài Tập\BidAndBuy\BidAndBuy\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\prj_dev5_traning_grandit\70_member\DatTB\Webform - ASP.NET\Web Server Controls\Bài Tập\BidAndBuy\BidAndBuy\bin\roslyn\System.Globalization.Calendars.dll
+C:\prj_dev5_traning_grandit\70_member\DatTB\Webform - ASP.NET\Web Server Controls\Bài Tập\BidAndBuy\BidAndBuy\bin\roslyn\System.IO.Compression.dll
+C:\prj_dev5_traning_grandit\70_member\DatTB\Webform - ASP.NET\Web Server Controls\Bài Tập\BidAndBuy\BidAndBuy\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\prj_dev5_traning_grandit\70_member\DatTB\Webform - ASP.NET\Web Server Controls\Bài Tập\BidAndBuy\BidAndBuy\bin\roslyn\System.IO.FileSystem.dll
+C:\prj_dev5_traning_grandit\70_member\DatTB\Webform - ASP.NET\Web Server Controls\Bài Tập\BidAndBuy\BidAndBuy\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\prj_dev5_traning_grandit\70_member\DatTB\Webform - ASP.NET\Web Server Controls\Bài Tập\BidAndBuy\BidAndBuy\bin\roslyn\System.Net.Http.dll
+C:\prj_dev5_traning_grandit\70_member\DatTB\Webform - ASP.NET\Web Server Controls\Bài Tập\BidAndBuy\BidAndBuy\bin\roslyn\System.Net.Sockets.dll
+C:\prj_dev5_traning_grandit\70_member\DatTB\Webform - ASP.NET\Web Server Controls\Bài Tập\BidAndBuy\BidAndBuy\bin\roslyn\System.Reflection.Metadata.dll
+C:\prj_dev5_traning_grandit\70_member\DatTB\Webform - ASP.NET\Web Server Controls\Bài Tập\BidAndBuy\BidAndBuy\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\prj_dev5_traning_grandit\70_member\DatTB\Webform - ASP.NET\Web Server Controls\Bài Tập\BidAndBuy\BidAndBuy\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\prj_dev5_traning_grandit\70_member\DatTB\Webform - ASP.NET\Web Server Controls\Bài Tập\BidAndBuy\BidAndBuy\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\prj_dev5_traning_grandit\70_member\DatTB\Webform - ASP.NET\Web Server Controls\Bài Tập\BidAndBuy\BidAndBuy\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\prj_dev5_traning_grandit\70_member\DatTB\Webform - ASP.NET\Web Server Controls\Bài Tập\BidAndBuy\BidAndBuy\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\prj_dev5_traning_grandit\70_member\DatTB\Webform - ASP.NET\Web Server Controls\Bài Tập\BidAndBuy\BidAndBuy\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\prj_dev5_traning_grandit\70_member\DatTB\Webform - ASP.NET\Web Server Controls\Bài Tập\BidAndBuy\BidAndBuy\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\prj_dev5_traning_grandit\70_member\DatTB\Webform - ASP.NET\Web Server Controls\Bài Tập\BidAndBuy\BidAndBuy\bin\roslyn\System.ValueTuple.dll
+C:\prj_dev5_traning_grandit\70_member\DatTB\Webform - ASP.NET\Web Server Controls\Bài Tập\BidAndBuy\BidAndBuy\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\prj_dev5_traning_grandit\70_member\DatTB\Webform - ASP.NET\Web Server Controls\Bài Tập\BidAndBuy\BidAndBuy\bin\roslyn\System.Xml.XmlDocument.dll
+C:\prj_dev5_traning_grandit\70_member\DatTB\Webform - ASP.NET\Web Server Controls\Bài Tập\BidAndBuy\BidAndBuy\bin\roslyn\System.Xml.XPath.dll
+C:\prj_dev5_traning_grandit\70_member\DatTB\Webform - ASP.NET\Web Server Controls\Bài Tập\BidAndBuy\BidAndBuy\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\prj_dev5_traning_grandit\70_member\DatTB\Webform - ASP.NET\Web Server Controls\Bài Tập\BidAndBuy\BidAndBuy\bin\roslyn\vbc.exe
+C:\prj_dev5_traning_grandit\70_member\DatTB\Webform - ASP.NET\Web Server Controls\Bài Tập\BidAndBuy\BidAndBuy\bin\roslyn\vbc.exe.config
+C:\prj_dev5_traning_grandit\70_member\DatTB\Webform - ASP.NET\Web Server Controls\Bài Tập\BidAndBuy\BidAndBuy\bin\roslyn\vbc.rsp
+C:\prj_dev5_traning_grandit\70_member\DatTB\Webform - ASP.NET\Web Server Controls\Bài Tập\BidAndBuy\BidAndBuy\bin\roslyn\VBCSCompiler.exe
+C:\prj_dev5_traning_grandit\70_member\DatTB\Webform - ASP.NET\Web Server Controls\Bài Tập\BidAndBuy\BidAndBuy\bin\roslyn\VBCSCompiler.exe.config
+C:\prj_dev5_traning_grandit\70_member\DatTB\Webform - ASP.NET\Web Server Controls\Bài Tập\BidAndBuy\BidAndBuy\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\prj_dev5_traning_grandit\70_member\DatTB\Webform - ASP.NET\Web Server Controls\Bài Tập\BidAndBuy\BidAndBuy\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\prj_dev5_traning_grandit\70_member\DatTB\Webform - ASP.NET\Web Server Controls\Bài Tập\BidAndBuy\BidAndBuy\obj\Debug\BidAndBuy.csproj.CoreCompileInputs.cache
+C:\prj_dev5_traning_grandit\70_member\DatTB\Webform - ASP.NET\Web Server Controls\Bài Tập\BidAndBuy\BidAndBuy\obj\Debug\BidAndBuy.csproj.CopyComplete
+C:\prj_dev5_traning_grandit\70_member\DatTB\Webform - ASP.NET\Web Server Controls\Bài Tập\BidAndBuy\BidAndBuy\obj\Debug\BidAndBuy.dll
+C:\prj_dev5_traning_grandit\70_member\DatTB\Webform - ASP.NET\Web Server Controls\Bài Tập\BidAndBuy\BidAndBuy\obj\Debug\BidAndBuy.pdb
+C:\Users\Admin\Desktop\Webform - ASP.NET\Các objects trong ASP.Net\Bài Tập\BidAndBuy\BidAndBuy\bin\BidAndBuy.dll.config
+C:\Users\Admin\Desktop\Webform - ASP.NET\Các objects trong ASP.Net\Bài Tập\BidAndBuy\BidAndBuy\bin\BidAndBuy.dll
+C:\Users\Admin\Desktop\Webform - ASP.NET\Các objects trong ASP.Net\Bài Tập\BidAndBuy\BidAndBuy\bin\BidAndBuy.pdb
+C:\Users\Admin\Desktop\Webform - ASP.NET\Các objects trong ASP.Net\Bài Tập\BidAndBuy\BidAndBuy\bin\roslyn\csc.exe
+C:\Users\Admin\Desktop\Webform - ASP.NET\Các objects trong ASP.Net\Bài Tập\BidAndBuy\BidAndBuy\bin\roslyn\csc.exe.config
+C:\Users\Admin\Desktop\Webform - ASP.NET\Các objects trong ASP.Net\Bài Tập\BidAndBuy\BidAndBuy\bin\roslyn\csc.rsp
+C:\Users\Admin\Desktop\Webform - ASP.NET\Các objects trong ASP.Net\Bài Tập\BidAndBuy\BidAndBuy\bin\roslyn\csi.exe
+C:\Users\Admin\Desktop\Webform - ASP.NET\Các objects trong ASP.Net\Bài Tập\BidAndBuy\BidAndBuy\bin\roslyn\csi.exe.config
+C:\Users\Admin\Desktop\Webform - ASP.NET\Các objects trong ASP.Net\Bài Tập\BidAndBuy\BidAndBuy\bin\roslyn\csi.rsp
+C:\Users\Admin\Desktop\Webform - ASP.NET\Các objects trong ASP.Net\Bài Tập\BidAndBuy\BidAndBuy\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Admin\Desktop\Webform - ASP.NET\Các objects trong ASP.Net\Bài Tập\BidAndBuy\BidAndBuy\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Admin\Desktop\Webform - ASP.NET\Các objects trong ASP.Net\Bài Tập\BidAndBuy\BidAndBuy\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Admin\Desktop\Webform - ASP.NET\Các objects trong ASP.Net\Bài Tập\BidAndBuy\BidAndBuy\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Admin\Desktop\Webform - ASP.NET\Các objects trong ASP.Net\Bài Tập\BidAndBuy\BidAndBuy\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Admin\Desktop\Webform - ASP.NET\Các objects trong ASP.Net\Bài Tập\BidAndBuy\BidAndBuy\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Admin\Desktop\Webform - ASP.NET\Các objects trong ASP.Net\Bài Tập\BidAndBuy\BidAndBuy\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Admin\Desktop\Webform - ASP.NET\Các objects trong ASP.Net\Bài Tập\BidAndBuy\BidAndBuy\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Admin\Desktop\Webform - ASP.NET\Các objects trong ASP.Net\Bài Tập\BidAndBuy\BidAndBuy\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Admin\Desktop\Webform - ASP.NET\Các objects trong ASP.Net\Bài Tập\BidAndBuy\BidAndBuy\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Admin\Desktop\Webform - ASP.NET\Các objects trong ASP.Net\Bài Tập\BidAndBuy\BidAndBuy\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Admin\Desktop\Webform - ASP.NET\Các objects trong ASP.Net\Bài Tập\BidAndBuy\BidAndBuy\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Admin\Desktop\Webform - ASP.NET\Các objects trong ASP.Net\Bài Tập\BidAndBuy\BidAndBuy\bin\roslyn\System.AppContext.dll
+C:\Users\Admin\Desktop\Webform - ASP.NET\Các objects trong ASP.Net\Bài Tập\BidAndBuy\BidAndBuy\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Admin\Desktop\Webform - ASP.NET\Các objects trong ASP.Net\Bài Tập\BidAndBuy\BidAndBuy\bin\roslyn\System.Console.dll
+C:\Users\Admin\Desktop\Webform - ASP.NET\Các objects trong ASP.Net\Bài Tập\BidAndBuy\BidAndBuy\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Admin\Desktop\Webform - ASP.NET\Các objects trong ASP.Net\Bài Tập\BidAndBuy\BidAndBuy\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Admin\Desktop\Webform - ASP.NET\Các objects trong ASP.Net\Bài Tập\BidAndBuy\BidAndBuy\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Admin\Desktop\Webform - ASP.NET\Các objects trong ASP.Net\Bài Tập\BidAndBuy\BidAndBuy\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Admin\Desktop\Webform - ASP.NET\Các objects trong ASP.Net\Bài Tập\BidAndBuy\BidAndBuy\bin\roslyn\System.IO.Compression.dll
+C:\Users\Admin\Desktop\Webform - ASP.NET\Các objects trong ASP.Net\Bài Tập\BidAndBuy\BidAndBuy\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Admin\Desktop\Webform - ASP.NET\Các objects trong ASP.Net\Bài Tập\BidAndBuy\BidAndBuy\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Admin\Desktop\Webform - ASP.NET\Các objects trong ASP.Net\Bài Tập\BidAndBuy\BidAndBuy\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Admin\Desktop\Webform - ASP.NET\Các objects trong ASP.Net\Bài Tập\BidAndBuy\BidAndBuy\bin\roslyn\System.Net.Http.dll
+C:\Users\Admin\Desktop\Webform - ASP.NET\Các objects trong ASP.Net\Bài Tập\BidAndBuy\BidAndBuy\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Admin\Desktop\Webform - ASP.NET\Các objects trong ASP.Net\Bài Tập\BidAndBuy\BidAndBuy\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Admin\Desktop\Webform - ASP.NET\Các objects trong ASP.Net\Bài Tập\BidAndBuy\BidAndBuy\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Admin\Desktop\Webform - ASP.NET\Các objects trong ASP.Net\Bài Tập\BidAndBuy\BidAndBuy\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Admin\Desktop\Webform - ASP.NET\Các objects trong ASP.Net\Bài Tập\BidAndBuy\BidAndBuy\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Admin\Desktop\Webform - ASP.NET\Các objects trong ASP.Net\Bài Tập\BidAndBuy\BidAndBuy\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Admin\Desktop\Webform - ASP.NET\Các objects trong ASP.Net\Bài Tập\BidAndBuy\BidAndBuy\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Admin\Desktop\Webform - ASP.NET\Các objects trong ASP.Net\Bài Tập\BidAndBuy\BidAndBuy\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Admin\Desktop\Webform - ASP.NET\Các objects trong ASP.Net\Bài Tập\BidAndBuy\BidAndBuy\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Admin\Desktop\Webform - ASP.NET\Các objects trong ASP.Net\Bài Tập\BidAndBuy\BidAndBuy\bin\roslyn\System.ValueTuple.dll
+C:\Users\Admin\Desktop\Webform - ASP.NET\Các objects trong ASP.Net\Bài Tập\BidAndBuy\BidAndBuy\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Admin\Desktop\Webform - ASP.NET\Các objects trong ASP.Net\Bài Tập\BidAndBuy\BidAndBuy\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Admin\Desktop\Webform - ASP.NET\Các objects trong ASP.Net\Bài Tập\BidAndBuy\BidAndBuy\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Admin\Desktop\Webform - ASP.NET\Các objects trong ASP.Net\Bài Tập\BidAndBuy\BidAndBuy\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Admin\Desktop\Webform - ASP.NET\Các objects trong ASP.Net\Bài Tập\BidAndBuy\BidAndBuy\bin\roslyn\vbc.exe
+C:\Users\Admin\Desktop\Webform - ASP.NET\Các objects trong ASP.Net\Bài Tập\BidAndBuy\BidAndBuy\bin\roslyn\vbc.exe.config
+C:\Users\Admin\Desktop\Webform - ASP.NET\Các objects trong ASP.Net\Bài Tập\BidAndBuy\BidAndBuy\bin\roslyn\vbc.rsp
+C:\Users\Admin\Desktop\Webform - ASP.NET\Các objects trong ASP.Net\Bài Tập\BidAndBuy\BidAndBuy\bin\roslyn\VBCSCompiler.exe
+C:\Users\Admin\Desktop\Webform - ASP.NET\Các objects trong ASP.Net\Bài Tập\BidAndBuy\BidAndBuy\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Admin\Desktop\Webform - ASP.NET\Các objects trong ASP.Net\Bài Tập\BidAndBuy\BidAndBuy\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Admin\Desktop\Webform - ASP.NET\Các objects trong ASP.Net\Bài Tập\BidAndBuy\BidAndBuy\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Admin\Desktop\Webform - ASP.NET\Các objects trong ASP.Net\Bài Tập\BidAndBuy\BidAndBuy\obj\Debug\BidAndBuy.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Webform - ASP.NET\Các objects trong ASP.Net\Bài Tập\BidAndBuy\BidAndBuy\obj\Debug\BidAndBuy.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Webform - ASP.NET\Các objects trong ASP.Net\Bài Tập\BidAndBuy\BidAndBuy\obj\Debug\BidAndBuy.csproj.CopyComplete
+C:\Users\Admin\Desktop\Webform - ASP.NET\Các objects trong ASP.Net\Bài Tập\BidAndBuy\BidAndBuy\obj\Debug\BidAndBuy.dll
+C:\Users\Admin\Desktop\Webform - ASP.NET\Các objects trong ASP.Net\Bài Tập\BidAndBuy\BidAndBuy\obj\Debug\BidAndBuy.pdb
